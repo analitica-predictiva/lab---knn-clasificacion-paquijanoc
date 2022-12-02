@@ -5,7 +5,7 @@ Clasificación usando k-NN
 
 """
 import pandas as pd
-
+import numpy as np
 
 def pregunta_01():
     """
